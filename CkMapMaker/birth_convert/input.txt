@@ -1,0 +1,219 @@
+600 = {
+	name = "Alamar"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 48
+	}
+}
+
+601 = {
+	name = "Aelfwine"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 59
+	}
+}
+
+602 = {
+	name = "Brennus"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 58
+	}
+}
+
+603 = {
+	name = "Aelfried"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 58
+	}
+}
+
+604 = {
+	name = "Cadeyrn"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 55
+	}
+}
+
+605 = {
+	name = "Ealdred"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 45
+	}
+}
+
+606 = {
+	name = "Godric"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 50
+	}
+}
+
+607 = {
+	name = "Hereward"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 62
+	}
+}
+
+608 = {
+	name = "Charles"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 29
+	}
+}
+
+609 = {
+	name = "Leofric"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 27
+	}
+}
+
+610 = {
+	name = "Leofwine"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 32
+	}
+}
+
+611 = {
+	name = "Gaidon"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 26
+	}
+}
+
+612 = {
+	name = "Fouchier"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 23
+	}
+}
+
+613 = {
+	name = "Fossard"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 34
+	}
+}
+
+614 = {
+	name = "Malbert"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 33
+	}
+}
+
+615 = {
+	name = "Othon"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 35
+	}
+}
+
+616 = {
+	name = "Montewar"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 32
+	}
+}
+
+617 = {
+	name = "Renier"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 20
+	}
+}
+
+618 = {
+	name = "Andre"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 26
+	}
+}
+
+619 = {
+	name = "Eric"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	4769.1.1 = {
+		birth = 37
+	}
+}
