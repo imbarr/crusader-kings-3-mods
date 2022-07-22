@@ -1,0 +1,23 @@
+# Crash Information
+AppName: Crusader Kings III 
+AppVersion: 1.6.1.2 
+SCMBranch: release/1.6.1 
+SCMCommit: 164d9aa12357311eb957456e886f1baac2d26fba 
+SCMTimeStamp: "2022-06-26 17:21:51 +0000" 
+DateTime: "2022-07-22 10:16:56 +0500" 
+BuildType: ReleaseLto 
+Platform: Windows 
+Store: steam 
+Architecture: 64-bit 
+OperatingSystem: Windows 10 x86_64 
+SystemLanguage: en 
+CPUModel:         Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz 
+CPUSpeed: 2900 
+CPUPhysicalCores: 4 
+CPULogicalCores: 4 
+SystemMemory: 32720 
+GPUName: AMD Radeon (TM) R9 380 Series 
+GPUVendor: AMD 
+GPUId: 26936 
+GPUDedicatedMemory: 4071 
+LaunchArguments: --gdpr-compliant --mapeditor --nakama --simultaneouschunks="" 
