@@ -1,0 +1,274 @@
+#k_baccus_empire
+
+#d_cez
+
+#c_cez
+173 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = city
+}
+172 = {
+	holding = none
+}
+
+#c_serindiar
+171 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+169 = {
+	holding = none
+}
+166 = {
+	holding = none
+}
+
+#c_buillin
+170 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+167 = {
+	holding = none
+}
+
+#c_ruldi
+165 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+163 = {
+	holding = none
+}
+168 = {
+	holding = none
+}
+
+#d_ethos
+
+#c_ethos
+179 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = city
+}
+180 = {
+	holding = none
+}
+
+#c_bretven
+178 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#c_uhhun
+181 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#c_dirigsene
+183 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#d_janos
+
+#c_janos
+187 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = city
+}
+
+#c_glunmar
+182 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#c_fenada
+188 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#c_oregar
+190 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+
+#c_chaeza
+191 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#d_rela
+
+#c_rela
+177 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+
+#c_veidar
+176 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#d_salvador
+
+#c_salvador
+175 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+174 = {
+	holding = none
+}
+
+#c_emirin
+157 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+140 = {
+	holding = none
+}
+
+#c_reveran
+156 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+155 = {
+	holding = none
+}
+
+#d_calendain
+
+#c_calendain
+153 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+142 = {
+	holding = none
+}
+
+#c_saren
+141 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#c_bulugur
+152 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+151 = {
+	holding = none
+}
+
+#c_emer
+150 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#d_maras
+
+#c_maras
+186 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+189 = {
+	holding = none
+}
+
+#c_pagundur
+185 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+
+#c_fedner
+161 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+164 = {
+	holding = none
+}
+158 = {
+	holding = none
+}
+
+#d_walven
+
+#c_walven
+149 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+
+#c_almerra
+147 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+
+#c_buvran
+159 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = village
+}
+160 = {
+	holding = none
+}
+
+#c_shieldstorm
+143 = {
+	culture = baccus
+	religion = damia_provideo
+	holding = castle
+}
+144 = {
+	holding = none
+}
+146 = {
+	holding = none
+}

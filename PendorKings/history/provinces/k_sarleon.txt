@@ -1,0 +1,307 @@
+#k_sarleon
+
+#d_avendor
+
+#c_avendor
+63 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = city
+}
+
+#c_mistmire
+61 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+68 = {
+	holding = none
+}
+
+#c_ibiran
+62 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_amere
+64 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_sarleon
+
+#c_seven_cross
+120 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_sarleon
+118 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = city
+}
+
+#c_balanli
+138 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_yaragar
+119 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_haringoth
+105 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_stagheart
+104 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_marleons
+
+#c_marleons
+81 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = city
+}
+
+#c_burglen
+80 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_pern
+94 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_tahlberl
+93 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_foxstead
+82 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+92 = {
+	holding= none
+}
+
+#d_kennet
+
+#c_kennet
+83 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_branburg
+91 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_avayburg
+73 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+72 = {
+	holding = none
+}
+
+#d_mobray
+
+#c_mobray
+90 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+85 = {
+	holding = none
+}
+
+#c_south_mobray
+102 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_azgad
+103 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_kelredan
+
+#c_kelredan
+137 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+136 = {
+	holding = none
+}
+
+#c_belmonfaire
+116 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+102 = {
+	holding = none
+}
+
+#d_laria
+
+#c_laria
+127 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = city
+}
+107 = {
+	holding = none
+}
+
+#c_kwynn
+126 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_sarimish
+130 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_troughbren
+128 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_whitestag
+
+#c_whitestag
+123 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+122 = {
+	holding = none
+}
+121 = {
+	holding = none
+}
+
+#c_ehlerdah
+124 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_erminade
+125 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_valorshield
+
+#c_valorshield
+110 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+111 = {
+	holding = none
+}
+97 = {
+	holding = none
+}
+74 = {
+	holding = none
+}
+24 = {
+	holding = none
+}
+25 = {
+	holding = none
+}
+26 = {
+	holding = none
+}
+
+#c_fletcher
+109 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_talon
+79 = {
+	culture = sarleon
+	religion = eunomia_stabilitis
+	holding = castle
+}
+77 = {
+	holding = none
+}
+75 = {
+	holding = none
+}
+96 = {
+	holding = none
+}
+95 = {
+	holding = none
+}

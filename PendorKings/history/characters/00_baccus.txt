@@ -1,0 +1,219 @@
+200 = {
+	name = "Justus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	294.1.1 = {
+		birth = yes
+	}
+}
+
+201 = {
+	name = "Kyros"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	301.1.1 = {
+		birth = yes
+	}
+}
+
+202 = {
+	name = "Livius"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	304.1.1 = {
+		birth = yes
+	}
+}
+
+203 = {
+	name = "Sidonious"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	294.1.1 = {
+		birth = yes
+	}
+}
+
+204 = {
+	name = "Cleon"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	304.1.1 = {
+		birth = yes
+	}
+}
+
+205 = {
+	name = "Titus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	301.1.1 = {
+		birth = yes
+	}
+}
+
+206 = {
+	name = "Varius"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	295.1.1 = {
+		birth = yes
+	}
+}
+
+207 = {
+	name = "Agathon"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	291.1.1 = {
+		birth = yes
+	}
+}
+
+208 = {
+	name = "Rimusk"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	328.1.1 = {
+		birth = yes
+	}
+}
+
+209 = {
+	name = "Biorn"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	328.1.1 = {
+		birth = yes
+	}
+}
+
+210 = {
+	name = "Brutus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	322.1.1 = {
+		birth = yes
+	}
+}
+
+211 = {
+	name = "Decimus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	329.1.1 = {
+		birth = yes
+	}
+}
+
+212 = {
+	name = "Alus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	319.1.1 = {
+		birth = yes
+	}
+}
+
+213 = {
+	name = "Antonious"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	325.1.1 = {
+		birth = yes
+	}
+}
+
+214 = {
+	name = "Fabius"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	329.1.1 = {
+		birth = yes
+	}
+}
+
+215 = {
+	name = "Gallus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	318.1.1 = {
+		birth = yes
+	}
+}
+
+216 = {
+	name = "Dion"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	327.1.1 = {
+		birth = yes
+	}
+}
+
+217 = {
+	name = "Deodatus"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	325.1.1 = {
+		birth = yes
+	}
+}
+
+218 = {
+	name = "Cassian"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	319.1.1 = {
+		birth = yes
+	}
+}
+
+219 = {
+	name = "Leonius"
+	dynasty = 1
+	religion = damia_provideo
+	culture = baccus
+	
+	316.1.1 = {
+		birth = yes
+	}
+}

@@ -1,0 +1,219 @@
+600 = {
+	name = "Alamar"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	306.1.1 = {
+		birth = yes
+	}
+}
+
+601 = {
+	name = "Aelfwine"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	295.1.1 = {
+		birth = yes
+	}
+}
+
+602 = {
+	name = "Brennus"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	296.1.1 = {
+		birth = yes
+	}
+}
+
+603 = {
+	name = "Aelfried"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	296.1.1 = {
+		birth = yes
+	}
+}
+
+604 = {
+	name = "Cadeyrn"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	299.1.1 = {
+		birth = yes
+	}
+}
+
+605 = {
+	name = "Ealdred"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	309.1.1 = {
+		birth = yes
+	}
+}
+
+606 = {
+	name = "Godric"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	304.1.1 = {
+		birth = yes
+	}
+}
+
+607 = {
+	name = "Hereward"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	292.1.1 = {
+		birth = yes
+	}
+}
+
+608 = {
+	name = "Charles"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	325.1.1 = {
+		birth = yes
+	}
+}
+
+609 = {
+	name = "Leofric"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	327.1.1 = {
+		birth = yes
+	}
+}
+
+610 = {
+	name = "Leofwine"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	322.1.1 = {
+		birth = yes
+	}
+}
+
+611 = {
+	name = "Gaidon"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	328.1.1 = {
+		birth = yes
+	}
+}
+
+612 = {
+	name = "Fouchier"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	331.1.1 = {
+		birth = yes
+	}
+}
+
+613 = {
+	name = "Fossard"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	320.1.1 = {
+		birth = yes
+	}
+}
+
+614 = {
+	name = "Malbert"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	321.1.1 = {
+		birth = yes
+	}
+}
+
+615 = {
+	name = "Othon"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	319.1.1 = {
+		birth = yes
+	}
+}
+
+616 = {
+	name = "Montewar"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	322.1.1 = {
+		birth = yes
+	}
+}
+
+617 = {
+	name = "Renier"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	334.1.1 = {
+		birth = yes
+	}
+}
+
+618 = {
+	name = "Andre"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	328.1.1 = {
+		birth = yes
+	}
+}
+
+619 = {
+	name = "Eric"
+	dynasty = 1
+	religion = eunomia_stabilitis
+	culture = sarleon
+	
+	317.1.1 = {
+		birth = yes
+	}
+}

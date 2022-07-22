@@ -1,0 +1,230 @@
+#k_fierdsvain
+
+#d_javiksholm
+
+#c_highcliffe
+71 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+
+#c_javiksholm
+65 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = city
+}
+
+#c_jayek
+58 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_clovindarn
+60 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+66 = {
+	holding = none
+}
+
+#c_kulum
+69 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+70 = {
+	holding = none
+}
+
+#d_ironoak
+
+#c_ironoak
+55 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+
+#c_tyra
+54 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_ansen
+56 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+57 = {
+	holding = none
+}
+
+#d_valonbray
+
+#c_valonbray
+112 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = city
+}
+99 = {
+	holding = none
+}
+
+#c_aldelen
+98 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_elkburg
+87 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_quay
+100 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#d_longbeard
+
+#c_longbeard
+88 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+89 = {
+	holding = none
+}
+
+#c_kaveraid
+101 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_nomar
+86 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#d_windholm
+
+#c_windholm
+192 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = city
+}
+193 = {
+	holding = none
+}
+
+#c_yule
+194 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_ruvar
+197 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+198 = {
+	holding = none
+}
+
+#d_high_pass
+
+#c_high_pass
+195 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+
+#c_rafsanjan
+196 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#d_hrolfson
+
+#c_hrolfson
+200 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+199 = {
+	holding = none
+}
+
+#c_odasan
+133 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_knudarr
+201 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+
+#c_tragmar
+202 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#d_gunders
+
+#c_gunders
+114 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = castle
+}
+
+#c_ambershorn
+134 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}
+
+#c_rizi
+132 = {
+	culture = fierdsvain
+	religion = thallo_ver_shures
+	holding = village
+}

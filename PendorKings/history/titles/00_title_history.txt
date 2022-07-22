@@ -1,0 +1,785 @@
+c_ethos = {
+	354.1.1 = {
+		holder = 200
+	}
+}
+
+c_cez = {
+	354.1.1 = {
+		holder = 201
+	}
+}
+
+c_savador = {
+	354.1.1 = {
+		holder = 202
+	}
+}
+
+c_calendain = {
+	354.1.1 = {
+		holder = 203
+	}
+}
+
+c_almerra = {
+	354.1.1 = {
+		holder = 204
+	}
+}
+
+c_maras = {
+	354.1.1 = {
+		holder = 205
+	}
+}
+
+c_fenada = {
+	354.1.1 = {
+		holder = 205
+	}
+}
+
+c_rela = {
+	354.1.1 = {
+		holder = 206
+	}
+}
+
+c_walven = {
+	354.1.1 = {
+		holder = 207
+	}
+}
+
+c_saren = {
+	354.1.1 = {
+		holder = 208
+	}
+}
+
+c_emirin = {
+	354.1.1 = {
+		holder = 209
+	}
+}
+
+c_veidar = {
+	354.1.1 = {
+		holder = 209
+	}
+}
+
+c_glunmar = {
+	354.1.1 = {
+		holder = 210
+	}
+}
+
+c_reveran = {
+	354.1.1 = {
+		holder = 211
+	}
+}
+
+c_uhhun = {
+	354.1.1 = {
+		holder = 211
+	}
+}
+
+c_emer = {
+	354.1.1 = {
+		holder = 212
+	}
+}
+
+c_buvran = {
+	354.1.1 = {
+		holder = 213
+	}
+}
+
+c_fedner = {
+	354.1.1 = {
+		holder = 213
+	}
+}
+
+c_bulugur = {
+	354.1.1 = {
+		holder = 214
+	}
+}
+
+c_chaeza = {
+	354.1.1 = {
+		holder = 214
+	}
+}
+
+c_shieldstorm = {
+	354.1.1 = {
+		holder = 215
+	}
+}
+
+c_buillin = {
+	354.1.1 = {
+		holder = 216
+	}
+}
+
+c_dirigsene = {
+	354.1.1 = {
+		holder = 216
+	}
+}
+
+c_ruldi = {
+	354.1.1 = {
+		holder = 217
+	}
+}
+
+c_pagundur = {
+	354.1.1 = {
+		holder = 218
+	}
+}
+
+c_serindiar = {
+	354.1.1 = {
+		holder = 218
+	}
+}
+
+c_oregar = {
+	354.1.1 = {
+		holder = 219
+	}
+}
+
+c_nal_tar = {
+	354.1.1 = {
+		holder = 300
+	}
+}
+
+c_singal = {
+	354.1.1 = {
+		holder = 301
+	}
+}
+
+c_ishkoman = {
+	354.1.1 = {
+		holder = 302
+	}
+}
+
+c_muqaddas_pani = {
+	354.1.1 = {
+		holder = 303
+	}
+}
+
+c_shadi_shahid = {
+	354.1.1 = {
+		holder = 304
+	}
+}
+
+c_sher_quila = {
+	354.1.1 = {
+		holder = 305
+	}
+}
+
+c_sange_safid = {
+	354.1.1 = {
+		holder = 306
+	}
+}
+
+c_chelez = {
+	354.1.1 = {
+		holder = 306
+	}
+}
+
+c_saidu_sharif = {
+	354.1.1 = {
+		holder = 307
+	}
+}
+
+c_adnan_khel = {
+	354.1.1 = {
+		holder = 308
+	}
+}
+
+c_phundar = {
+	354.1.1 = {
+		holder = 309
+	}
+}
+
+c_seh_pathar = {
+	354.1.1 = {
+		holder = 309
+	}
+}
+
+c_miandan = {
+	354.1.1 = {
+		holder = 310
+	}
+}
+
+c_ushu = {
+	354.1.1 = {
+		holder = 310
+	}
+}
+
+c_tuldar = {
+	354.1.1 = {
+		holder = 311
+	}
+}
+
+c_gazin = {
+	354.1.1 = {
+		holder = 312
+	}
+}
+
+c_drosh = {
+	354.1.1 = {
+		holder = 313
+	}
+}
+
+c_gahar = {
+	354.1.1 = {
+		holder = 313
+	}
+}
+
+c_yasin = {
+	354.1.1 = {
+		holder = 314
+	}
+}
+
+c_ahda_calam = {
+	354.1.1 = {
+		holder = 315
+	}
+}
+
+c_kogosi = {
+	354.1.1 = {
+		holder = 316
+	}
+}
+
+c_shandur = {
+	354.1.1 = {
+		holder = 317
+	}
+}
+
+c_tismirr = {
+	354.1.1 = {
+		holder = 318
+	}
+}
+
+c_mardan = {
+	354.1.1 = {
+		holder = 319
+	}
+}
+
+c_valonbray = {
+	354.1.1 = {
+		holder = 400
+	}
+}
+
+c_windholm = {
+	354.1.1 = {
+		holder = 401
+	}
+}
+
+c_knudarr = {
+	354.1.1 = {
+		holder = 402
+	}
+}
+
+c_highcliffe = {
+	354.1.1 = {
+		holder = 403
+	}
+}
+
+c_longbeard = {
+	354.1.1 = {
+		holder = 404
+	}
+}
+
+c_ansen = {
+	354.1.1 = {
+		holder = 405
+	}
+}
+
+c_tragmar = {
+	354.1.1 = {
+		holder = 405
+	}
+}
+
+c_ironoak = {
+	354.1.1 = {
+		holder = 406
+	}
+}
+
+c_high_pass = {
+	354.1.1 = {
+		holder = 407
+	}
+}
+
+c_jayek = {
+	354.1.1 = {
+		holder = 408
+	}
+}
+
+c_elkburg = {
+	354.1.1 = {
+		holder = 409
+	}
+}
+
+c_rizi = {
+	354.1.1 = {
+		holder = 409
+	}
+}
+
+c_ruvar = {
+	354.1.1 = {
+		holder = 410
+	}
+}
+
+c_rafsanjan = {
+	354.1.1 = {
+		holder = 411
+	}
+}
+
+c_yule = {
+	354.1.1 = {
+		holder = 412
+	}
+}
+
+c_kaveraid = {
+	354.1.1 = {
+		holder = 412
+	}
+}
+
+c_hrolfson = {
+	354.1.1 = {
+		holder = 413
+	}
+}
+
+c_gunders = {
+	354.1.1 = {
+		holder = 414
+	}
+}
+
+c_kulum = {
+	354.1.1 = {
+		holder = 415
+	}
+}
+
+c_quay = {
+	354.1.1 = {
+		holder = 416
+	}
+}
+
+c_nomar = {
+	354.1.1 = {
+		holder = 417
+	}
+}
+
+c_odasan = {
+	354.1.1 = {
+		holder = 417
+	}
+}
+
+c_poinsbruk = {
+	354.1.1 = {
+		holder = 500
+	}
+}
+
+c_senderfall = {
+	354.1.1 = {
+		holder = 501
+	}
+}
+
+c_rane = {
+	354.1.1 = {
+		holder = 502
+	}
+}
+
+c_alden = {
+	354.1.1 = {
+		holder = 503
+	}
+}
+
+c_vezin = {
+	354.1.1 = {
+		holder = 503
+	}
+}
+
+c_evasolde = {
+	354.1.1 = {
+		holder = 504
+	}
+}
+
+c_orin = {
+	354.1.1 = {
+		holder = 504
+	}
+}
+
+c_dagon = {
+	354.1.1 = {
+		holder = 505
+	}
+}
+
+c_falcondark = {
+	354.1.1 = {
+		holder = 506
+	}
+}
+
+c_taloncrag = {
+	354.1.1 = {
+		holder = 507
+	}
+}
+
+c_rebache = {
+	354.1.1 = {
+		holder = 507
+	}
+}
+
+c_silveredge = {
+	354.1.1 = {
+		holder = 508
+	}
+}
+
+c_stoutheart = {
+	354.1.1 = {
+		holder = 509
+	}
+}
+
+c_mazen = {
+	354.1.1 = {
+		holder = 510
+	}
+}
+
+c_mysthorn = {
+	354.1.1 = {
+		holder = 511
+	}
+}
+
+c_bazeck = {
+	354.1.1 = {
+		holder = 512
+	}
+}
+
+c_shapeshte = {
+	354.1.1 = {
+		holder = 513
+	}
+}
+
+c_dugan = {
+	354.1.1 = {
+		holder = 513
+	}
+}
+
+c_fenbray = {
+	354.1.1 = {
+		holder = 514
+	}
+}
+
+c_south_fenbray = {
+	354.1.1 = {
+		holder = 515
+	}
+}
+
+c_elktrin = {
+	354.1.1 = {
+		holder = 515
+	}
+}
+
+c_sheastrom = {
+	354.1.1 = {
+		holder = 516
+	}
+}
+
+c_fisdnar = {
+	354.1.1 = {
+		holder = 516
+	}
+}
+
+c_hanun = {
+	354.1.1 = {
+		holder = 517
+	}
+}
+
+c_saffrongate = {
+	354.1.1 = {
+		holder = 517
+	}
+}
+
+c_gosbur = {
+	354.1.1 = {
+		holder = 518
+	}
+}
+
+c_tebandra = {
+	354.1.1 = {
+		holder = 518
+	}
+}
+
+c_uslum = {
+	354.1.1 = {
+		holder = 519
+	}
+}
+
+c_ismirala = {
+	354.1.1 = {
+		holder = 519
+	}
+}
+
+c_laria = {
+	354.1.1 = {
+		holder = 600
+	}
+}
+
+c_marleons = {
+	354.1.1 = {
+		holder = 601
+	}
+}
+
+c_avendor = {
+	354.1.1 = {
+		holder = 602
+	}
+}
+
+c_kelredan = {
+	354.1.1 = {
+		holder = 603
+	}
+}
+
+c_whitestag = {
+	354.1.1 = {
+		holder = 604
+	}
+}
+
+c_talon = {
+	354.1.1 = {
+		holder = 605
+	}
+}
+
+c_mistmire = {
+	354.1.1 = {
+		holder = 606
+	}
+}
+
+c_mobray = {
+	354.1.1 = {
+		holder = 607
+	}
+}
+
+c_fletcher = {
+	354.1.1 = {
+		holder = 607
+	}
+}
+
+c_yaragar = {
+	354.1.1 = {
+		holder = 608
+	}
+}
+
+c_tahlberl = {
+	354.1.1 = {
+		holder = 608
+	}
+}
+
+c_foxstead = {
+	354.1.1 = {
+		holder = 609
+	}
+}
+
+c_pern = {
+	354.1.1 = {
+		holder = 609
+	}
+}
+
+c_kennet = {
+	354.1.1 = {
+		holder = 610
+	}
+}
+
+c_seven_cross = {
+	354.1.1 = {
+		holder = 611
+	}
+}
+
+c_ehlerdah = {
+	354.1.1 = {
+		holder = 612
+	}
+}
+
+c_branburg = {
+	354.1.1 = {
+		holder = 612
+	}
+}
+
+c_amere = {
+	354.1.1 = {
+		holder = 613
+	}
+}
+
+c_belmonfaire = {
+	354.1.1 = {
+		holder = 613
+	}
+}
+
+c_haringoth = {
+	354.1.1 = {
+		holder = 614
+	}
+}
+
+c_valorshield = {
+	354.1.1 = {
+		holder = 615
+	}
+}
+
+c_south_mobray = {
+	354.1.1 = {
+		holder = 616
+	}
+}
+
+c_avayburg = {
+	354.1.1 = {
+		holder = 616
+	}
+}
+
+c_erminade = {
+	354.1.1 = {
+		holder = 617
+	}
+}
+
+c_troughbren = {
+	354.1.1 = {
+		holder = 617
+	}
+}
+
+c_stagheart = {
+	354.1.1 = {
+		holder = 618
+	}
+}
+
+c_ibiran = {
+	354.1.1 = {
+		holder = 618
+	}
+}
+
+c_burglen = {
+	354.1.1 = {
+		holder = 619
+	}
+}
+
+c_kwynn = {
+	354.1.1 = {
+		holder = 619
+	}
+}

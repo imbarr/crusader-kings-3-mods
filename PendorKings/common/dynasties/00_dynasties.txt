@@ -1,0 +1,10 @@
+1 = {
+	name = "dynn_global"
+	culture = "dshar"
+}
+
+# Keeping Prydain to dodge a stubborn error.
+1029001 = {
+	name = "dynn_Prydain"
+	culture = "welsh"
+}

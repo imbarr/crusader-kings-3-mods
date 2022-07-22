@@ -1,0 +1,43 @@
+name_list_baccus = {
+	male_names = {
+		Justus Kyros Livius Sidonious Titus Varius Agathon Rimusk Biorn Brutus Decimus Alus Antonious Cleon
+		Fabius Gallus Dion Deodatus Cassian Leonius
+	}
+
+	female_names = { Temp }
+	
+	cadet_dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+	dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+}
+
+name_list_dshar = {
+	male_names = { Temp }
+	female_names = { Temp }
+	
+	cadet_dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+	dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+}
+
+name_list_fierdsvain = {
+	male_names = { Temp }
+	female_names = { Temp }
+	
+	cadet_dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+	dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+}
+
+name_list_ravenstern = {
+	male_names = { Temp }
+	female_names = { Temp }
+	
+	cadet_dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+	dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+}
+
+name_list_sarleon = {
+	male_names = { Temp }
+	female_names = { Temp }
+	
+	cadet_dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+	dynasty_names = { Temp1 Temp2 Temp3 Temp4 Temp5 }
+}

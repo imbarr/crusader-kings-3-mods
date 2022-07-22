@@ -1,0 +1,139 @@
+baccus = {
+	color = { 124 59 8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_pendorian
+	language = language_pendorian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_maritime_mercantilism
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_baccus
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+dshar = {
+	color = { 124 59 8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_pendorian
+	language = language_pendorian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_maritime_mercantilism
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_dshar
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+fierdsvain = {
+	color = { 124 59 8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_pendorian
+	language = language_pendorian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_maritime_mercantilism
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_fierdsvain
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+ravenstern = {
+	color = { 124 59 8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_pendorian
+	language = language_pendorian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_maritime_mercantilism
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_ravenstern
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+
+sarleon = {
+	color = { 124 59 8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_pendorian
+	language = language_pendorian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_fishermen
+		tradition_maritime_mercantilism
+		tradition_hereditary_hierarchy
+	}
+	
+	name_list = name_list_sarleon
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}

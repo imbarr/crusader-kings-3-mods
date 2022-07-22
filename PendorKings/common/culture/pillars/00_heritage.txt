@@ -1,0 +1,3 @@
+heritage_pendorian = {
+	type = heritage
+}

@@ -1,0 +1,17 @@
+language_pendorian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_pendorian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_pendorian }
+			multiply = 10
+		}
+	}
+	
+	color = rgb { 128 128 128 }
+}

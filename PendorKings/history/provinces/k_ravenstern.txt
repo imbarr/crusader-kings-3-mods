@@ -1,0 +1,269 @@
+#k_ravenstern
+
+#d_senderfall
+
+#c_uslum
+8 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_senderfall
+27 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = city
+}
+40 = {
+	holding = none
+}
+
+#c_mazen
+28 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_shapeshte
+11 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_stoutheart
+
+#c_saffrongate
+12 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_stoutheart
+13 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+14 = {
+	holding = none
+}
+
+#d_dagon
+
+#c_tebandra
+51 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_dagon
+52 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#d_evasolde
+
+#c_evasolde
+42 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_sheastrom
+53 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_fenbray
+
+#c_fenbray
+30 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_south_fenbray
+43 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_ravenstern
+
+#c_ravenstern
+31 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = city
+}
+
+#c_orin
+44 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_vezin
+32 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_rane
+
+#c_rane
+46 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = city
+}
+
+#c_fisdnar
+45 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_dugan
+47 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_mysthorn
+
+#c_mysthorn
+15 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_ismirala
+33 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_hanun
+34 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+16 = {
+	holding = none
+}
+
+#d_silveredge
+
+#c_silveredge
+35 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+
+#c_elktrin
+17 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_poinsbruk
+
+#c_poinsbruk
+49 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = city
+}
+
+#c_bierbuk
+76 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#c_rebache
+48 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+
+#d_taloncrag
+
+#c_taloncrag
+36 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+18 = {
+	holding = none
+}
+
+#c_gosbur
+37 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+19 = {
+	holding = none
+}
+
+#d_alden
+
+#c_alden
+38 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+20 = {
+	holding = none
+}
+
+#c_falcondark
+50 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = castle
+}
+23 = {
+	holding = none
+}
+
+#c_bazeck
+39 = {
+	culture = ravenstern
+	religion = eunomia_stabilitis
+	holding = village
+}
+21 = {
+	holding = none
+}
+22 = {
+	holding = none
+}

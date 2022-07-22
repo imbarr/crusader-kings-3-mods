@@ -1,0 +1,197 @@
+400 = {
+	name = "Aedin"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	296.1.1 = {
+		birth = yes
+	}
+}
+
+401 = {
+	name = "Sigimund"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	299.1.1 = {
+		birth = yes
+	}
+}
+
+402 = {
+	name = "Ari"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	298.1.1 = {
+		birth = yes
+	}
+}
+
+403 = {
+	name = "Adalstienn"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	304.1.1 = {
+		birth = yes
+	}
+}
+
+404 = {
+	name = "Bjorn"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	298.1.1 = {
+		birth = yes
+	}
+}
+
+405 = {
+	name = "Einkr"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	298.1.1 = {
+		birth = yes
+	}
+}
+
+406 = {
+	name = "Eydis"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	301.1.1 = {
+		birth = yes
+	}
+}
+
+407 = {
+	name = "Gundur"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	298.1.1 = {
+		birth = yes
+	}
+}
+
+408 = {
+	name = "Hakon"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	323.1.1 = {
+		birth = yes
+	}
+}
+
+409 = {
+	name = "Talvor"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	326.1.1 = {
+		birth = yes
+	}
+}
+
+410 = {
+	name = "Hraven"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	326.1.1 = {
+		birth = yes
+	}
+}
+
+411 = {
+	name = "Ingvarr"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	319.1.1 = {
+		birth = yes
+	}
+}
+
+412 = {
+	name = "Ragnbjorg"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	319.1.1 = {
+		birth = yes
+	}
+}
+
+413 = {
+	name = "Sigrun"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	323.1.1 = {
+		birth = yes
+	}
+}
+
+414 = {
+	name = "Olaf"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	323.1.1 = {
+		birth = yes
+	}
+}
+
+415 = {
+	name = "Hrothgar"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	322.1.1 = {
+		birth = yes
+	}
+}
+
+416 = {
+	name = "Gundarr"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	325.1.1 = {
+		birth = yes
+	}
+}
+
+417 = {
+	name = "Inar"
+	dynasty = 1
+	religion = thallo_ver_shures
+	culture = fierdsvain
+	
+	322.1.1 = {
+		birth = yes
+	}
+}

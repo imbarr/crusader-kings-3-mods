@@ -1,0 +1,230 @@
+#k_dshar
+
+#d_nal_tar
+
+#c_nal_tar
+237 = {
+	culture = dshar
+	religion = vata
+	holding = city
+}
+242 = {
+	holding = none
+}
+
+#c_tismirr
+236 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#d_muqaddas_pani
+
+#c_muqaddas_pani
+240 = {
+	culture = dshar
+	religion = vata
+	holding = castle
+}
+241 = {
+	holding = none
+}
+
+#c_gahar
+235 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_shandur
+232 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+238 = {
+	holding = none
+}
+239 = {
+	holding = none
+}
+
+#d_shadi_shahid
+
+#c_shadi_shahid
+234 = {
+	culture = dshar
+	religion = vata
+	holding = castle
+}
+
+#c_kogosi
+233 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_ushu
+231 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#d_torbah
+
+#c_torbah
+225 = {
+	culture = dshar
+	religion = vata
+	holding = city
+}
+
+#c_ahda_calam
+226 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_phundar
+227 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#d_ishkoman
+
+#c_ishkoman
+224 = {
+	culture = dshar
+	religion = vata
+	holding = city
+}
+223 = {
+	holding = none
+}
+
+#c_adnan_khel
+229 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_mardan
+220 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#d_saidu_sharif
+
+#c_saidu_sharif
+221 = {
+	culture = dshar
+	religion = vata
+	holding = castle
+}
+
+#c_drosh
+219 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_tulbuk
+222 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#d_sher_quila
+
+#c_sher_quila
+214 = {
+	culture = dshar
+	religion = vata
+	holding = castle
+}
+
+#c_miandan
+209 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_chelez
+210 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#d_singal
+
+#c_singal
+215 = {
+	culture = dshar
+	religion = vata
+	holding = city
+}
+
+#c_yasin
+213 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_derakhte_ghermez
+211 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+
+#c_sange_safid
+204 = {
+	culture = dshar
+	religion = vata
+	holding = castle
+}
+
+
+#d_tuldar
+
+#c_tuldar
+207 = {
+	culture = dshar
+	religion = vata
+	holding = castle
+}
+208 = {
+	holding = none
+}
+
+#c_seh_pathar
+218 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
+217 = {
+	holding = none
+}
+
+#c_gazin
+216 = {
+	culture = dshar
+	religion = vata
+	holding = village
+}
