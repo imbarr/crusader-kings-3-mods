@@ -1,0 +1,660 @@
+[10:16:02][gameapplication.cpp:380]: 1508 defines loaded
+[10:16:17][provincetemplate.cpp:160]: Province 3222 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8802 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8803 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8804 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8805 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8806 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8807 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8808 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8809 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8810 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8811 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8812 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8813 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8814 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8815 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8816 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8817 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8818 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8819 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8820 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8821 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8822 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8823 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8824 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8825 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8826 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8827 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8828 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8829 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8830 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8831 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8832 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8833 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8834 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8835 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8836 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8837 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8838 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8839 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8840 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8841 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8842 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8843 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8844 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8845 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8846 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8847 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8848 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8849 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8850 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8851 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8852 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8853 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8854 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8855 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8856 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8857 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8858 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8859 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8860 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8861 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8862 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8863 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8864 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8865 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8866 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8867 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8868 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8869 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8870 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8871 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8872 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8873 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8874 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8875 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8876 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8877 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8878 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8879 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8880 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8881 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8882 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8883 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8884 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8885 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8886 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8887 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8888 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8889 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8890 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8891 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8892 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8893 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8894 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8895 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8896 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8897 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8898 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8899 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8900 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8901 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8902 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8903 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8904 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8905 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8906 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8907 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8908 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8909 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8910 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8911 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8912 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8913 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8914 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8915 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8916 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8917 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8918 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8919 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8920 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8921 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8922 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8923 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8924 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8925 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8926 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8927 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8928 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8929 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8930 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8931 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8932 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8933 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8934 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8935 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8936 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8937 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8938 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8939 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8940 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8941 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8942 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8943 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8944 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8945 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8946 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8947 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8948 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8949 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8950 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8951 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8952 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8953 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8954 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8955 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8956 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8957 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8958 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8959 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8960 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8961 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8962 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8963 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8964 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8965 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8966 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8967 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8968 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8969 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8970 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8971 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8972 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8973 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8974 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8975 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8976 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8977 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8978 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8979 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8980 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8981 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8982 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8983 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8984 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8985 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8986 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8987 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8988 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8989 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8990 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8991 has no pixels!
+[10:16:17][provincetemplate.cpp:160]: Province 8992 has no pixels!
+[10:16:50][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'birth' is set to #1000000
+[10:16:50][jomini_eventmanager.cpp:583]: Events loaded events/birth_events.txt' #33
+[10:16:50][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'blackmail' is set to #1010000
+[10:16:50][jomini_eventmanager.cpp:583]: Events loaded events/blackmail_events.txt' #3
+[10:16:50][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'board_games' is set to #1020000
+[10:16:50][jomini_eventmanager.cpp:583]: Events loaded events/board_game_events.txt' #8
+[10:16:50][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'bookmark' is set to #1030000
+[10:16:50][jomini_eventmanager.cpp:583]: Events loaded events/bookmark_events.txt' #6
+[10:16:50][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_maintenance' is set to #1040000
+[10:16:50][jomini_eventmanager.cpp:583]: Events loaded events/court_maintenance_events.txt' #7
+[10:16:50][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'easteregg_event' is set to #1050000
+[10:16:50][jomini_eventmanager.cpp:583]: Events loaded events/easteregg_events.txt' #2
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'error_suppression' is set to #1060000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/error_suppression_events.txt' #2
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'game_rule' is set to #1070000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/game_rule_events.txt' #8
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'global_culture' is set to #1080000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/global_culture_events.txt' #14
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'global_religion' is set to #1090000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/global_religion_events.txt' #1
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'health' is set to #1100000
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'jester' is set to #1110000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/jester_stress_relief_events.txt' #12
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'marriage_effect' is set to #1120000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/marriage_effect_events.txt' #10
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'pregnancy' is set to #1130000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/pregnancy_events.txt' #29
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'realm_maintenance' is set to #1140000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/realm_maintenance_events.txt' #6
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'siege' is set to #1150000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/health_events.txt' #94
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'single_combat' is set to #1160000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/siege_events.txt' #14
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'title_event' is set to #1170000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/title_events.txt' #7
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'varangian' is set to #1180000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/varangian_events.txt' #20
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'witch' is set to #1190000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/witch_events.txt' #34
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast' is set to #1200000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/feast_events.txt' #13
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/single_combat_events.txt' #9
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast_lifestyle' is set to #1210000
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast_default' is set to #1220000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/main_events/feast_lifestyle_events.txt' #9
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast_main_befriend' is set to #1230000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/main_events/feast_main_befriend_events.txt' #11
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast_main_live_fowl' is set to #1240000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/main_events/feast_main_live_fowl_events.txt' #13
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast_main_stable_breakin' is set to #1250000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/main_events/feast_main_stable_breakin_events.txt' #12
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'feast_main_stew_flood' is set to #1260000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/main_events/feast_main_stew_flood_events.txt' #11
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'hold_court' is set to #1270000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/feast_activity/main_events/feast_default_events.txt' #68
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'hunt' is set to #1280000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/hunt_activity/hunt_events.txt' #38
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'pay_homage' is set to #1290000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/pay_homage_activity/pay_homage_events.txt' #5
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'petition_liege' is set to #1300000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/petition_liege_activity/petition_liege_events.txt' #11
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'hajj' is set to #1310000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/pilgrimage_activity/hajj_events.txt' #3
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'pilgrimage' is set to #1320000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/pilgrimage_activity/pilgrimage_events.txt' #59
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'playdate' is set to #1330000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/activities/playdate_activity/playdate_events.txt' #30
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'artifact' is set to #1340000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/artifacts/artifact_events.txt' #31
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'historical_artifacts' is set to #1350000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/artifacts/historical_artifacts_events.txt' #2
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'chancellor_task' is set to #1360000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/chancellor_task_events.txt' #21
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'councillor_spouse_background' is set to #1370000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/councillor_spouse_background_events.txt' #1
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_chaplain_task' is set to #1380000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/court_chaplain_task_events.txt' #18
+[10:16:51][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'marshal_task' is set to #1390000
+[10:16:51][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/marshal_task_events.txt' #22
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'spymaster_task' is set to #1400000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/activities/hold_court_activity/hold_court_events_general.txt' #123
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'steward_task' is set to #1410000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/spymaster_task_events.txt' #44
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'councillor_spouse_diplomacy' is set to #1420000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/steward_task_events.txt' #27
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'councillor_spouse_intrigue' is set to #1430000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/councillor_spouse_events/councillor_spouse_intrigue_events.txt' #13
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/councillor_spouse_events/councillor_spouse_diplomacy_events.txt' #13
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'councillor_spouse_martial' is set to #1440000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'councillor_spouse_learning' is set to #1450000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/councillor_spouse_events/councillor_spouse_martial_events.txt' #14
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'councillor_spouse_stewardship' is set to #1460000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/councillor_spouse_events/councillor_spouse_learning_events.txt' #16
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/councillor_task_events/councillor_spouse_events/councillor_spouse_stewardship_events.txt' #16
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court' is set to #1470000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_amenities_interactions' is set to #1480000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/court_events/introduce_court_fashion_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/court_events/sumptuary_debate_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'courtier_guest_management' is set to #1490000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/courtier_guest_management_events/courtier_guest_management_events.txt' #8
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'culture_emergence_events' is set to #1500000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/culture_events/culture_emergence_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'culture_notification' is set to #1510000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/culture_events/culture_notification_events.txt' #6
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'culture_tradition_events' is set to #1520000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/culture_events/culture_tradition_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'language_events' is set to #1530000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/culture_events/language_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'death_management' is set to #1540000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/death_events/death_management_events.txt' #36
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'british_isles' is set to #1550000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/british_isles_events.txt' #23
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'central_asia' is set to #1560000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/central_asia_events.txt' #6
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'culture_conversion' is set to #1570000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/culture_conversion_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'east_europe' is set to #1580000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/east_europe_events.txt' #35
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'iberia_north_africa' is set to #1590000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/iberia_north_africa_events.txt' #24
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'major_decisions' is set to #1600000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/major_decisions_events.txt' #22
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'middle_east_decisions' is set to #1610000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/court_events/court_events_general.txt' #112
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'middle_europe_decisions' is set to #1620000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/middle_east_decisions_events.txt' #17
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'minor_decisions' is set to #1630000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/middle_europe_decisions_events.txt' #16
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'roman_restoration' is set to #1640000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/minor_decision_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'south_asia' is set to #1650000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/south_asia_events.txt' #21
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'ep1_character_interaction' is set to #1660000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/decisions_events/roman_restoration_events.txt' #55
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_character_interaction_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_position' is set to #1670000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'ep1_decision' is set to #1680000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_court_position_events.txt' #6
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_decision_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'ep1_flavor' is set to #1690000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fund_inspiration' is set to #1700000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_flavor_events.txt' #14
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_fund_inspiration_events_oltner.txt' #2
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'inspiration_system' is set to #1710000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_inspiration_system_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_jomsvikings' is set to #1720000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_jomsvikings_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_major_decisions' is set to #1730000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_major_decision_events.txt' #16
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_other_decisions' is set to #1740000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_other_decision_events.txt' #18
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_scandinavian_adventurers' is set to #1750000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_scandinavian_adventurer_events.txt' #8
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_shieldmaiden' is set to #1760000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_shieldmaiden_events.txt' #7
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_trade_events' is set to #1770000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/ep1/ep1_fund_inspiration_events.txt' #116
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_tbc' is set to #1780000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_trade_events.txt' #11
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_varangian_adventures' is set to #1790000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_varangian_adventure_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_trial_by_combat_events.txt' #10
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp1_yearly' is set to #1800000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_yearly_events_oltner.txt' #17
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp2_struggle' is set to #1810000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_el_cid_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp2_flavor' is set to #1820000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_flavor_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_flavor_events_veronica.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp2_james' is set to #1830000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_james.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp2_lyonese_monk' is set to #1840000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_lyonese_monk_events.txt' #27
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp2_other_decisions' is set to #1850000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_other_decision_events.txt' #10
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp1/fp1_yearly_events.txt' #56
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fp2_yearly' is set to #1860000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_yearly_events.txt' #27
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'neutral_struggle' is set to #1870000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/neutral_struggle_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'child_personality' is set to #1880000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/dlc/fp2/fp2_struggle_events.txt' #39
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'childhood_education' is set to #1890000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/education_and_childhood/childhood_education_events.txt' #16
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'childhood' is set to #1900000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/education_and_childhood/child_personality_events.txt' #110
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'coming_of_age' is set to #1910000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/education_and_childhood/childhood_events.txt' #50
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'faction_demand' is set to #1920000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/education_and_childhood/coming_of_age_events.txt' #10
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/factions/faction_demands.txt' #26
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'faction_invitation' is set to #1930000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'clan' is set to #1940000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/factions/faction_invitations.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'tribal' is set to #1950000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/government_events/clan_events.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'call_ally' is set to #1960000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/alliance_interaction_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'bastard_interaction' is set to #1970000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/bastard_interaction_events.txt' #10
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/government_events/tribal_events.txt' #25
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'char_interaction' is set to #1980000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'council_interaction' is set to #1990000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/council_interaction_events.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'marriage_interaction' is set to #2000000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/character_interaction_events.txt' #47
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'perk_interaction' is set to #2010000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/perk_interaction_events.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'vassal_interaction' is set to #2020000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/marriage_interaction_events.txt' #17
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'dynasty_legacy' is set to #2030000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/legacy_events/dynasty_legacy_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'commission_epic' is set to #2040000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/interaction_events/vassal_interaction_events.txt' #18
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'mystic_lifestyle' is set to #2050000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/mystic_lifestyle_events.txt' #10
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'sell_titles' is set to #2060000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/sell_titles_events.txt' #13
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'subject_extortion' is set to #2070000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/subject_extortion_events.txt' #7
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_domain' is set to #2080000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/commission_epic_events.txt' #31
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_duty' is set to #2090000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_domain_special' is set to #2100000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/governance_lifestyle/stewardship_domain_events.txt' #87
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_general' is set to #2110000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_duty_special' is set to #2120000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_general_special' is set to #2130000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/governance_lifestyle/stewardship_general_events.txt' #7
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_wealth' is set to #2140000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/governance_lifestyle/stewardship_duty_events.txt' #74
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_dread' is set to #2150000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_dread_special' is set to #2160000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stewardship_wealth_special' is set to #2170000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/governance_lifestyle/stewardship_wealth_events.txt' #10
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_scheming' is set to #2180000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_scheming_special' is set to #2190000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/intrigue_lifestyle/intrigue_dread_events.txt' #27
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_temptation' is set to #2200000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_temptation_special' is set to #2210000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/intrigue_lifestyle/intrigue_temptation_events.txt' #18
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/intrigue_lifestyle/intrigue_scheming_events.txt' #62
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learning_medicine' is set to #2220000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learning_medicine_special' is set to #2230000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/intrigue_lifestyle/intrigue_temptation_events_2.txt' #8
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learning_scholarship' is set to #2240000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learning_scholarship_special' is set to #2250000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/scholarship_lifestyle/learning_medicine_events.txt' #26
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learning_theology' is set to #2260000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learning_theology_special' is set to #2270000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/scholarship_lifestyle/learning_scholarship_events.txt' #32
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/scholarship_lifestyle/learning_theology_events.txt' #28
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_family' is set to #2280000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_family_special' is set to #2290000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/statecraft_lifestyle/diplomacy_family_events.txt' #30
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_foreign' is set to #2300000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_generic' is set to #2310000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_foreign_special' is set to #2320000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_majesty' is set to #2330000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/statecraft_lifestyle/diplomacy_generic_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'historical_commander_trait' is set to #2340000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomacy_majesty_special' is set to #2350000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/historical_commander_trait_events.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learn_commander_trait' is set to #2360000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/statecraft_lifestyle/diplomacy_foreign_events.txt' #34
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'martial_authority' is set to #2370000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/learn_commander_trait_events.txt' #60
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/statecraft_lifestyle/diplomacy_majesty_events.txt' #22
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'martial_chivalry' is set to #2380000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'martial_authority_special' is set to #2390000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/martial_authority_events_2.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'martial_chivalry_special' is set to #2400000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/martial_authority_events.txt' #26
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'martial_strategy' is set to #2410000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/martial_chivalry_events.txt' #32
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'warhorse' is set to #2420000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/martial_strategy_events_2.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'lifestyle_nicknames' is set to #2430000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/warhorse_events.txt' #15
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'martial_strategy_special' is set to #2440000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/nickname_events/nickname_events.txt' #11
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'ep1_notifications' is set to #2450000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/notification_events/ep1_notification_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'dungeon_ongoing' is set to #2460000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'house_arrest_ongoing' is set to #2470000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/prison_events/dungeon_ongoing_events.txt' #14
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/prison_events/house_arrest_ongoing_events.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'prison' is set to #2480000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'prison_notification' is set to #2490000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/prison_events/prison_notification_events.txt' #8
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'adultery' is set to #2500000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/lifestyles/warfare_lifestyle/martial_strategy_events.txt' #27
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/prison_events/prison_events.txt' #20
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'bishop' is set to #2510000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'friendship' is set to #2520000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/bishop_events.txt' #6
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/adultery_events.txt' #24
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'lover' is set to #2530000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'mentor_student' is set to #2540000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/mentor_student_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/friendship_events.txt' #44
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'parent' is set to #2550000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'relation_upgrade' is set to #2560000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/parent_events.txt' #14
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'rivalry' is set to #2570000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/rivalry_events.txt' #36
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/relation_upgrade_events.txt' #13
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'spouse' is set to #2580000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/spouse_events.txt' #41
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/lover_events.txt' #74
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'sibling' is set to #2590000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'vassal' is set to #2600000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'faith_conversion' is set to #2610000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/faith_conversion_events.txt' #8
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/sibling_events.txt' #17
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'false_conversion' is set to #2620000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'faith_creation' is set to #2630000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/false_conversion_events.txt' #6
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fervor' is set to #2640000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/faith_creation_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'great_holy_war' is set to #2650000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/fervor_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/relations_events/vassal_events.txt' #33
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'head_of_faith' is set to #2660000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'heresy' is set to #2670000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/head_of_faith_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'holy_order' is set to #2680000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/heresy_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'human_sacrifice' is set to #2690000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/human_sacrifice_events.txt' #2
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'religious_decision' is set to #2700000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/great_holy_war_events.txt' #45
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/holy_order_events.txt' #17
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'religious_interaction' is set to #2710000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'diplomatic_scheme_lifestyle' is set to #2720000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/diplomatic_scheme_lifestyle_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'hostile_scheme_discovery' is set to #2730000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/hostile_scheme_discovery_events.txt' #8
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/religious_interaction_events.txt' #34
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_scheme_lifestyle' is set to #2740000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'intrigue_scheme_ongoing' is set to #2750000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/religion_events/religious_decision_events.txt' #17
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'abduct_outcome' is set to #2760000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/intrigue_scheme_lifestyle_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'befriend_ongoing_dislike' is set to #2770000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/adbuct_scheme/abduct_outcome_events.txt' #12
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/befriend_scheme/befriend_ongoing_dislike_events.txt' #12
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'befriend_ongoing' is set to #2780000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'befriend_ongoing_rival' is set to #2790000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/befriend_scheme/befriend_ongoing_rival_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'befriend_outcome' is set to #2800000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/intrigue_scheme_ongoing_events.txt' #44
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'claim_throne_ongoing' is set to #2810000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/claim_throne_scheme/claim_throne_ongoing_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'claim_throne_outcome' is set to #2820000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/befriend_scheme/befriend_scheme_outcome_events.txt' #36
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/claim_throne_scheme/claim_throne_outcome_events.txt' #14
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_ongoing' is set to #2830000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_outcome' is set to #2840000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/befriend_scheme/befriend_ongoing_events.txt' #89
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'elope' is set to #2850000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/court_scheme/court_scheme_outcome_events.txt' #11
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fabricate_hook_ongoing' is set to #2860000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/elope_scheme/elope_scheme_events.txt' #9
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/fabricate_hook_scheme/fabricate_hook_ongoing_events.txt' #5
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'fabricate_hook_outcome' is set to #2870000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learn_language_ongoing' is set to #2880000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/fabricate_hook_scheme/fabricate_hook_outcome_events.txt' #8
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'learn_language_outcome' is set to #2890000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/learn_language_scheme/learn_language_outcome_events.txt' #4
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'murder_ongoing' is set to #2900000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/learn_language_scheme/learn_language_ongoing_events.txt' #20
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/murder_scheme/murder_ongoing_events.txt' #2
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'murder_outcome' is set to #2910000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'murder_scheme_maintenance' is set to #2920000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/murder_scheme/murder_scheme_maintenance_events.txt' #1
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/court_scheme/court_scheme_ongoing_events.txt' #43
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'murder_save' is set to #2930000
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'seduce_ongoing' is set to #2940000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/murder_scheme/murder_outcome_events.txt' #70
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'seduce_outcome' is set to #2950000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/murder_scheme/murder_saves/murder_save_events.txt' #31
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'steal_back_artifact_ongoing' is set to #2960000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/steal_back_artifact_scheme/steal_back_artifact_ongoing_events.txt' #2
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'steal_back_artifact_outcome' is set to #2970000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/steal_back_artifact_scheme/steal_back_artifact_outcome_events.txt' #3
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'sway_ongoing' is set to #2980000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/seduce_scheme/seduce_scheme_outcome_events.txt' #47
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'sway_outcome' is set to #2990000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/sway_scheme/sway_outcome_events.txt' #7
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'secret_bastard' is set to #3000000
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/secret_events/secret_bastard_events.txt' #18
+[10:16:52][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/sway_scheme/sway_ongoing_events.txt' #21
+[10:16:52][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'secrets' is set to #3010000
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'bell_special_yearly' is set to #3020000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/fp2_story_cycle_bell_of_huesca.txt' #7
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'almohad' is set to #3030000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/story_cycle_almohad_events.txt' #8
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'hunt_mystical_animal' is set to #3040000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/scheme_events/seduce_scheme/seduce_ongoing_events.txt' #160
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/story_cycle_hunt_mystical_animal_events.txt' #11
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'infidelity_confrontation' is set to #3050000
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'mongol_invasion' is set to #3060000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/secret_events/secrets_events.txt' #42
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'party_baron' is set to #3070000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/story_cycle_mongol_invasion_events.txt' #15
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'pet_animal' is set to #3080000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/story_cycle_infidelity_confrontation_events.txt' #9
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/story_cycle_party_baron_events.txt' #21
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'murders_at_court' is set to #3090000
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'peasant_affair' is set to #3100000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/story_cycle_pet_animal_events.txt' #49
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stress_threshold' is set to #3110000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/peasant_affair/story_cycle_peasant_affair_events.txt' #10
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stress_threshold_prison' is set to #3120000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/story_cycles/murders_at_court/story_cycle_murders_at_court_events.txt' #20
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stress_threshold_special' is set to #3130000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/stress_events/stress_threshold_prison_events.txt' #12
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/stress_events/stress_threshold_special_events.txt' #2
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stress_trait_coping_decisions' is set to #3140000
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'stress_trait_ongoing' is set to #3150000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/stress_events/stress_trait_coping_decisions_events.txt' #24
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'debug' is set to #3160000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/stress_events/stress_trait_ongoing_events.txt' #8
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'debug_portraits' is set to #3170000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/test_events/debug_portraits.txt' #1
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'insult_poetry' is set to #3180000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/test_events/insult_poetry.txt' #1
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'poetry' is set to #3190000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/test_events/poetry_events.txt' #3
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'test_court_events' is set to #3200000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/test_events/test_court_events.txt' #3
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'trait_specific' is set to #3210000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/test_events/debug.txt' #66
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'trait_specific_interactions' is set to #3220000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/trait_specific_events/trait_specific_events.txt' #21
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/trait_specific_events/trait_specific_interaction_events.txt' #11
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'trait_specific_ongoing' is set to #3230000
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'combat_event' is set to #3240000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/war_events/combat_events.txt' #16
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'raiding' is set to #3250000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/trait_specific_events/trait_specific_ongoing_events.txt' #42
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'war_event' is set to #3260000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/war_events/war_events.txt' #10
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/war_events/raid_events.txt' #11
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'court_yearly' is set to #3270000
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'yearly' is set to #3280000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/stress_events/stress_threshold_events.txt' #34
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events.txt' #4
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_3.txt' #16
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/court_yearly_events.txt' #26
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_4.txt' #13
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_2.txt' #31
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_6.txt' #3
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'yearly_persian' is set to #3290000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_persia.txt' #3
+[10:16:53][jomini_eventmanager.cpp:630]: >=== NAMESPACE > 'yearly_saharan' is set to #3300000
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_7.txt' #26
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_sahara.txt' #8
+[10:16:53][jomini_eventmanager.cpp:583]: Events loaded events/yearly_events/yearly_events_5.txt' #33
+[10:16:53][onaction.cpp:344]: >>> Total of : 430
+[10:17:00][characterhistory.cpp:248]: ----- Character Base History Entries use the following:
+[10:17:00][characterhistory.cpp:192]: --- Character history uses the following tokens:
+[10:17:00][characterhistory.cpp:200]: --- missing tokens:
+[10:17:00][characterhistory.cpp:251]: ----- Date entries use the following:
+[10:17:00][characterhistory.cpp:192]: --- Character history uses the following tokens:
+[10:17:00][characterhistory.cpp:200]: --- missing tokens:

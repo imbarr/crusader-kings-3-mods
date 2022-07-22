@@ -1,0 +1,13 @@
+[10:16:01][game_setup.cpp:68]: Exe Git Version: release/1.6.1 : 164d9aa1235
+[10:16:01][game_setup.cpp:69]: Build Timestamp: 2022-06-26 17:21:51 +0000 long hash: 164d9aa12357311eb957456e886f1baac2d26fba
+[10:16:01][systemsettings.cpp:179]: CPU Model:         Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz
+[10:16:01][systemsettings.cpp:180]: CPU Speed: 2900MHz
+[10:16:01][systemsettings.cpp:181]: CPU Physical Cores: 4
+[10:16:01][systemsettings.cpp:182]: CPU Logical Cores: 4
+[10:16:01][systemsettings.cpp:183]: System Memory: 32720
+[10:16:01][systemsettings.cpp:184]: OS: Windows 10 x86_64
+[10:16:01][systemsettings.cpp:185]: OS Language: en
+[10:16:01][contextowner.cpp:829]: GPU Name: AMD Radeon (TM) R9 380 Series
+[10:16:01][contextowner.cpp:830]: GPU Vendor: AMD
+[10:16:01][contextowner.cpp:831]: GPU Id: 26936
+[10:16:01][contextowner.cpp:832]: GPU Dedicated Memory: 4071
